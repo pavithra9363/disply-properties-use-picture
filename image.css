@@ -1,0 +1,51 @@
+
+
+
+
+h1{
+
+
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: underline;
+    color:black;
+}
+h2{
+     font-size:large;
+     text-shadow: 2px 2px  4px blue ;
+
+}
+h3{
+    word-spacing: 5px;
+    letter-spacing: 10px;
+    color:red;
+}
+img{
+    height: 100px;
+    width: 80px;
+    
+
+}
+.p1{
+    height: 100px;
+    width: 80px; 
+    display: inline;
+    
+
+}
+.p11{
+    height: 250px;
+    width: 150px; 
+    display: block;
+    margin: 50px;
+}
+.p111{
+    height: 30vh;
+    width: 20vw; 
+    display: inline-block;
+    margin-top:200 px;
+    background-color: yellow;
+}
+
+
+    
